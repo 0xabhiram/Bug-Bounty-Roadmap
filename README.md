@@ -121,7 +121,7 @@ If you are beginning bug bounty hunting, you will need to know that it will take
 
 ## PRACTICE! PRACTICE! and PRACTICE!
 
-<h3>5 Training Tips to Go from Zero To Hero </h3>
+<h3>3 Training Tips to Go from Zero To Hero </h3>
 <h3>1.Hacker 101</h3>
 When i first got into Bounties all i did was listining to the vedios <a href="https://ctf.hacker101.com/">Hacker 101</a><br>
 Complete all the <a href="https://ctf.hacker101.com/ctf">CTFS Challanges</a> then you will get to know the minimum basics for Web Application,this is the very nice 
